@@ -22,21 +22,21 @@ Brawl Stars operators
 <td></td>
 <td>15</td>
 <td>8</td>
-<th>I</th>
+
 </tr>
 <tr>
 <td class="left">&#171;Урон&#187;</td>
 <td>12</td>
 <td>15</td>
 <td>3</td>
-<th>II</th>
+
 </tr>
 <tr>
 <td class="left">&#171;Супер&#187;</td>
 <td>15</td>
 <td>10</td>
 <td>3</td>
-<th>III</th>
+
 </tr>
 </table>
 <p align = "center">
