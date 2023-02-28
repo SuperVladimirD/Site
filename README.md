@@ -50,7 +50,7 @@ Brawl Stars operators
 <tr>
 <td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221941987-4839f0db-1736-47d8-8df8-96ad6134aa23.png"width="200" height="100"></td>
 <td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221942886-6c556538-ab09-4d6a-9b39-d7df89990fc8.png"width="200" height="100">  </td>
-<td class = "picture"><img src = "images/rose.gif"width="200" height="100"></td>
+<td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221943123-e24b344d-98ce-4670-8621-33181e296ed7.png"width="200" height="100"></td>
 </tr>
 <tr>
 <td class="note">Шелли</td>     
