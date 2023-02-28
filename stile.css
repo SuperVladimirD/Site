@@ -1,0 +1,48 @@
+table{
+  margin: 10px;
+}
+
+table.sport{
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+table.sport td.left{
+     text-align: left;
+
+}
+table.sport td{
+  align:center;
+}
+
+table th.header{
+   background: url("images/back.jpg");
+   color: white;
+   font-family: Arial, sans-serif;
+   font-style:bold;
+   text-align: center;
+}
+
+table td.picture{
+   background: url("images/paper.jpg");
+   text-align: center;
+   padding: 10px 10px 10px 10px;
+   width:120px;
+}
+
+table td.note{
+   color: #800000;
+   font-family: Arial, sans-serif;
+   text-align: center;
+   padding: 5px 10px 5px 10px;
+}
+
+table td.ad{
+   border-color:#cccccc;
+   border-width: 1;
+   background: rgb(230, 230, 255);
+   text-align: center;
+}
