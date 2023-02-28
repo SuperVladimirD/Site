@@ -48,7 +48,7 @@ Brawl Stars operators
 </tr>
 
 <tr>
-<td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221941987-4839f0db-1736-47d8-8df8-96ad6134aa23.png"></td>
+<td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221941987-4839f0db-1736-47d8-8df8-96ad6134aa23.png"width="100" height="100"></td>
 <td class = "picture"><img src = "images/anuta.gif">  </td>
 <td class = "picture"><img src = "images/rose.gif"></td>
 </tr>
