@@ -10,7 +10,7 @@ Brawl Stars operators
 <table border='1' class="sport" ><tr>
 <th rowspan="2">Статы</th>
 <th rowspan="2">Шелли</th>
-<th colspan="4">Базз</th>
+<th colspan="2">Базз</th>
 <th rowspan="2">Мортис</th>
 </tr>
 <tr>
