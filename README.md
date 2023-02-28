@@ -1,7 +1,6 @@
-# Site
 <HTML>
 <head>
-<title>Òàáëèöû: ðàáîòà Àðõàíãåëüñêîé Àííû.</title>
+<title>Brawl Stars operators</title>
 <link rel="stylesheet" href="stile.css">
 </head>
 <body>
