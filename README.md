@@ -1,6 +1,6 @@
 <HTML>
 <head>
-<title>Brawl Stars operators</title>
+Brawl Stars operators
 <link rel="stylesheet" href="stile.css">
 </head>
 <body>
