@@ -14,9 +14,7 @@ Brawl Stars operators
 <th rowspan="2">Мортис</th>
 </tr>
 <tr>
-<th>Статы Шелли</th>
-<th>Статы Базза</th>
-<th>Статы Мортиса</th>
+
 <th>Èòîã</th>
 </tr>
 <tr>
