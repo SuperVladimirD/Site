@@ -8,9 +8,9 @@ Brawl Stars operators
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <table border='1' class="sport" ><tr>
-<th rowspan="2">Êîìàíäà</th>
-<th colspan="4">Áàëëû</th>
-<th rowspan="2">Ìåñòî</th>
+<th rowspan="2">Шелли</th>
+<th colspan="4">Базз</th>
+<th rowspan="2">Мортис</th>
 </tr>
 <tr>
 <th>I òóð</th>
