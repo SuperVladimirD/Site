@@ -57,9 +57,9 @@ Brawl Stars operators
 <td class = "picture"><img src = "images/rose.gif"></td>
 </tr>
 <tr>
-<td class="note">Îðõèäåÿ</td>     
-<td class="note">Àíþòèíû ãëàçêè</td>
-<td class="note">Ðîçà</td>
+<td class="note">Шелли</td>     
+<td class="note">Базз</td>
+<td class="note">Мортис</td>
 </tr>
 </table>
 </p>
