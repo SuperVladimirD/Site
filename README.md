@@ -20,7 +20,7 @@ Brawl Stars operators
 <th>Èòîã</th>
 </tr>
 <tr>
-<td class="left">&#171;Ðîòîð&#187;</td>
+<td class="left">&#171;ХП&#187;</td>
 <td>10</td>
 <td>15</td>
 <td>8</td>
@@ -28,7 +28,7 @@ Brawl Stars operators
 <th>I</th>
 </tr>
 <tr>
-<td class="left">&#171;Ñòàòîð&#187;</td>
+<td class="left">&#171;Урон&#187;</td>
 <td>12</td>
 <td>15</td>
 <td>3</td>
@@ -36,7 +36,7 @@ Brawl Stars operators
 <th>II</th>
 </tr>
 <tr>
-<td class="left">&#171;Ìîòîð&#187;</td>
+<td class="left">&#171;Супер&#187;</td>
 <td>15</td>
 <td>10</td>
 <td>3</td>
