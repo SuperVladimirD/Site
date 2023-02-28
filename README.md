@@ -15,7 +15,7 @@ Brawl Stars operators
 </tr>
 <tr>
 
-<th>Èòîã</th>
+
 </tr>
 <tr>
 <td class="left">&#171;ХП&#187;</td>
