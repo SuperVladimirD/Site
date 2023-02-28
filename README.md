@@ -7,9 +7,7 @@ Brawl Stars operators
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <tr><td>
-
-è åãî ñëîâà <em>&#171;Veni. Vedi. Vici&#187;</em> (ëàò. <em>&#171;Ïðèøåë. Óâèäåë. Ïîáåäèë&#187;</em>) ñòàëè
-äåâèçîì äëÿ ìíîãèõ.
+Коротоко об игре Brawl Stars
 </td></tr>
   <table border='1' class="sport" ><tr>
 <th rowspan="2">Статы</th>
