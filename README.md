@@ -4,10 +4,14 @@ Brawl Stars operators
 <link rel="stylesheet" href="stile.css">
 </head>
 <body>
-
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
-<table border='1' class="sport" ><tr>
+<tr><td>
+
+è åãî ñëîâà <em>&#171;Veni. Vedi. Vici&#187;</em> (ëàò. <em>&#171;Ïðèøåë. Óâèäåë. Ïîáåäèë&#187;</em>) ñòàëè
+äåâèçîì äëÿ ìíîãèõ.
+</td></tr>
+  <table border='1' class="sport" ><tr>
 <th rowspan="2">Статы</th>
 <th rowspan="2"><a href=«https://yandex.ru/search/?text=%D1%88%D0%B5%D0%BB%D0%BB%D0%B8+%D0%B1%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D1%80+%D1%81%D1%82%D0%B0%D1%80%D1%81&clid=2411726&lr=24»>Шелли</a></th>
 <th colspan="1">Базз</th>
