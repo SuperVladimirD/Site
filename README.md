@@ -22,7 +22,6 @@ Brawl Stars operators
 <td></td>
 <td>15</td>
 <td>8</td>
-<td>33</td>
 <th>I</th>
 </tr>
 <tr>
@@ -30,7 +29,6 @@ Brawl Stars operators
 <td>12</td>
 <td>15</td>
 <td>3</td>
-<td>30</td>
 <th>II</th>
 </tr>
 <tr>
@@ -38,7 +36,6 @@ Brawl Stars operators
 <td>15</td>
 <td>10</td>
 <td>3</td>
-<td>28</td>
 <th>III</th>
 </tr>
 </table>
