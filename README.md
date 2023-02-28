@@ -7,7 +7,7 @@ Brawl Stars operators
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <tr><td>
-Коротоко об игре Brawl Stars
+Коротоко об популярных персонажах в игре Brawl Stars
 </td></tr>
   <table border='1' class="sport" ><tr>
 <th rowspan="2">Статы</th>
