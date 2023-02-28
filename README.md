@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Äàííûå â òàáëèöàõ</h1>
+<h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <table border='1' class="sport" ><tr>
 <th rowspan="2">Êîìàíäà</th>
