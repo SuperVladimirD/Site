@@ -19,7 +19,7 @@ Brawl Stars operators
 </tr>
 <tr>
 <td class="left">&#171;ХП&#187;</td>
-<td>10</td>
+<td></td>
 <td>15</td>
 <td>8</td>
 <td>33</td>
