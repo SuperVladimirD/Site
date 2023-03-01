@@ -63,11 +63,7 @@ Brawl Stars operators
 </p>
 <h1>Òàáëè÷íàÿ â¸ðñòêà</h1>
 <table>
-<tr>
-<td rowspan="2"><img src="images/ceasar.jpg"></td>
-<th align="left">Þëèé Öåçàðü</th>
-<td rowspan="2" class="ad"><img src="images/salad.jpg"><a href="https://yandex.ru/search/?text=%D1%88%D0%B5%D0%BB%D0%BB%D0%B8+%D0%B1%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D1%80+%D1%81%D1%82%D0%B0%D1%80%D1%81&clid=2411726&lr=24"><br>Шелли</a></td>
-</tr>
+
 
 
 </table>
