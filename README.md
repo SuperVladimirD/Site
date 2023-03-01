@@ -55,7 +55,7 @@ Brawl Stars operators
 <td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221943259-adbae8d8-27d8-4df9-8e15-28267c1b845d.png"width="200" height="100"></td>
 </tr>
 <tr>
-<td><a href=""><br>Шелли</td>     
+<td><a href="table.html"><br>Шелли</td>     
 <td class="note">Базз</td>
 <td class="note">Мортис</td>
 </tr>
