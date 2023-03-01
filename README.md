@@ -61,11 +61,7 @@ Brawl Stars operators
 </tr>
 </table>
 </p>
-<h1>Òàáëè÷íàÿ â¸ðñòêà</h1>
 <table>
-
-
-
 </table>
 </body>
 </HTML>
