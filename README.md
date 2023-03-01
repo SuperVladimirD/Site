@@ -45,7 +45,7 @@ Brawl Stars operators
 <table align="center">
 <tr>
 <th colspan = "3" class="header">
-Ãåðáàðèé Àðõàíãåëüñêîé Àííû 
+Модели персонажей
 </th>
 </tr>
 
