@@ -44,7 +44,7 @@ Brawl Stars operators
 <p align = "center">
 <table align="center">
 <tr>
-<th colspan = "3" class="header">
+<th colspan = "3">
 Модели персонажей
 </th>
 </tr>
