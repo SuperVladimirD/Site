@@ -51,7 +51,7 @@ Brawl Stars operators
 
 <tr>
 <td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221941987-4839f0db-1736-47d8-8df8-96ad6134aa23.png"width="200" height="100"></a></td>
-<td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221942886-6c556538-ab09-4d6a-9b39-d7df89990fc8.png"width="200" height="100">  </td>
+<td class = "picture"><img src = "изображение.png"width="200" height="100">  </td>
 <td class = "picture"><img src = "https://user-images.githubusercontent.com/125960791/221943259-adbae8d8-27d8-4df9-8e15-28267c1b845d.png"width="200" height="100"></td>
 </tr>
 <tr>
