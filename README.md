@@ -4,11 +4,49 @@ Brawl Stars operators
 <link rel="stylesheet" href="stile.css">
 </head>
 <body>
- <ul>
-<li><a href="table.htm">Шелли</a></li>
-<li><a href="">Пункт меню</a></li>
-<li><a href="">Пункт меню</a></li>
-</ul>
+ <nav class="one">
+  <h2>1. li {display: inline;}</h2>
+  <ul>
+    <li><a href="#"><i class="fa fa-home fa-fw"></i>Home</a></li>
+    <li><a href="#">Work</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<nav class="two">
+  <h2>2. li {float: left;}</h2>
+  <ul>
+    <li><a href="#"><i class="fa fa-home fa-fw"></i>Home</a></li>
+    <li><a href="#">Work</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<nav class="three">
+  <h2>3. li {display: inline-block;}</h2>
+  <ul>
+    <li><a href="#"><i class="fa fa-home fa-fw"></i>Home</a></li>
+    <li><a href="#">Work</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<nav class="four">
+  <h2>4. ul {display: flex;}</h2>
+  <ul>
+    <li><a href="#"><i class="fa fa-home fa-fw"></i>Home</a></li>
+    <li><a href="#">Work</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <tr><td>
