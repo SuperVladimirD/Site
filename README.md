@@ -11,7 +11,7 @@ Brawl Stars operators
 </td></tr>
   <table border='1' class="sport" ><tr>
 <th rowspan="2">Статы</th>
-<th rowspan="2"><a href=«table.htm»>Шелли</a></th>
+<th rowspan="2"><a href="table.htm">Текст ссылки</a></th>
 <th colspan="1">Базз</th>
 <th rowspan="2">Мортис</th>
 </tr>
