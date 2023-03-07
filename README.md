@@ -4,6 +4,11 @@ Brawl Stars operators
 <link rel="stylesheet" href="stile.css">
 </head>
 <body>
+ <ul>
+<li><a href="">Пункт меню</a></li>
+<li><a href="">Пункт меню</a></li>
+<li><a href="">Пункт меню</a></li>
+</ul>
 <h1>Оперативники популярной игры Brawl Stars</h1>
 <p align = "center">
 <tr><td>
