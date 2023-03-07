@@ -5,7 +5,7 @@ Brawl Stars operators
 </head>
 <body>
  <ul>
-<li><a href="">Пункт меню</a></li>
+<li><a href="table.htm">Шелли</a></li>
 <li><a href="">Пункт меню</a></li>
 <li><a href="">Пункт меню</a></li>
 </ul>
