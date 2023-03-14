@@ -6,7 +6,7 @@ Brawl Stars operators
 <body>
  <ul>
 <li><a href="table.htm">Шелли</a></li>
-<li><a href="">Базз</a></li>
+<li><a href="bazz.html">Базз</a></li>
 <li><a href="">Мортис</a></li>
 </ul>
 
